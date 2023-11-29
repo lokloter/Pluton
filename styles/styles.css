@@ -1,0 +1,227 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;;
+    background-color: #3e2b1a;
+}
+
+.Main {
+    display: flex;
+    flex-direction: row;
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.Main-content {
+    background-color: #FFFFFF;
+    box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.10);
+    padding: 105px 90px;
+}
+
+.about {
+    margin-bottom: 40px;
+}
+
+
+
+
+.title {
+    color: #000;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 25px;
+}
+
+.description {
+    color: rgb(102, 163, 187);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 400px;
+}
+
+
+.description_link {
+    color: #3a3939;
+    text-decoration: none;
+}
+
+.data {
+    margin-bottom: 45px;
+}
+
+.title_data {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+
+
+.organization1 {
+    color: #b68843;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.organization {
+    color: #b68843;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+
+.mass_of_Pluto_list {
+    padding: 0;
+    margin-left: 15px;
+}
+
+.generalization_list {
+    padding: 0;
+    margin-left: 15px;
+    list-style-type:  circle;
+}
+
+.list_text {
+    color: #595959;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.img {
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgba(49, 38, 26, 0.00) 55.21%, rgba(49, 38, 26, 0.71) 72.92%, #31261A 100%);
+}
+
+.Satellite_title5 {
+    font-size: 15px;
+}
+
+.Interesting_facts {
+
+}
+
+.Interesting_facts_list{
+    padding: 0;
+    margin-left: 15px;
+}
+
+.Sidebar {
+    background-color: #1E2939;
+    padding-top: 40px;
+    width: 370px;
+}
+
+.Photo {
+    width: 370px;
+    margin-bottom: 50px;
+}
+
+
+.satellite {
+    margin-left: 40px;
+}
+
+
+.satellite_title {
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 27px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.devices_title{
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 27px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.satellite_list {
+    color: #FFF;
+    padding: 0;
+    margin-left: 17px;
+}
+
+.Interesting_facts_list1{
+    color: #1E2939;
+}
+
+.Interesting_facts_list_general {
+    color: #b68843;
+}
+
+.satellite_list1{
+    color: #b68843;
+    list-style-type: square;
+}
+
+.satellite_text {
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400px;
+    line-height: 24px;
+}
+
+.devices {
+    margin-left: 40px;
+}
+
+.devices_list {
+    color: #FFF;
+    padding: 0;
+    margin-left: 17px;
+    list-style-type: square;
+}
+
+.devices_list1 {
+    color: #b68843;
+}
+
+.devices_text {  
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFF;
+}
+
+.Link_zond {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.span_zond_link:hover {
+    background-color: #595959;
+}
+
+.a {
+    color: #FFF;
+    text-decoration: none;
+}
+.a.a:hover {
+    background-color: #595959;
+}
+
+.navigation_satellite {
+    color: #FFF;
+    text-decoration: none;
+}
